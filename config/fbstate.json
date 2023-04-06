@@ -1,0 +1,65 @@
+[
+  {
+      "key": "sb",
+      "value": "CpD0Y62eaq7xwX5e5Lig5KOm",
+      "domain": "facebook.com",
+      "path": "/",
+      "hostOnly": false,
+      "creation": "2023-04-05T09:01:28.187Z",
+      "lastAccessed": "2023-04-05T09:01:28.187Z"
+  },
+  {
+      "key": "c_user",
+      "value": "100010469980082",
+      "domain": "facebook.com",
+      "path": "/",
+      "hostOnly": false,
+      "creation": "2023-04-05T09:01:28.187Z",
+      "lastAccessed": "2023-04-05T09:01:28.187Z"
+  },
+  {
+      "key": "datr",
+      "value": "W48mZKllILMcM6i8f8IJxz7A",
+      "domain": "facebook.com",
+      "path": "/",
+      "hostOnly": false,
+      "creation": "2023-04-05T09:01:28.187Z",
+      "lastAccessed": "2023-04-05T09:01:28.187Z"
+  },
+  {
+      "key": "wd",
+      "value": "500x599",
+      "domain": "facebook.com",
+      "path": "/",
+      "hostOnly": false,
+      "creation": "2023-04-05T09:01:28.187Z",
+      "lastAccessed": "2023-04-05T09:01:28.187Z"
+  },
+  {
+      "key": "presence",
+      "value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100008274694918%22%7D%2C%7B%22i%22%3A%22u.100005189145167%22%7D%2C%7B%22i%22%3A%22u.100025474806345%22%7D%5D%2C%22utc3%22%3A1680684765651%2C%22v%22%3A1%7D",
+      "domain": "facebook.com",
+      "path": "/",
+      "hostOnly": false,
+      "creation": "2023-04-05T09:01:28.187Z",
+      "lastAccessed": "2023-04-05T09:01:28.187Z"
+  },
+  {
+      "key": "xs",
+      "value": "14%3Az9-sB6RPYgmy-w%3A2%3A1680248665%3A-1%3A6312%3A%3AAcUFcOeW47tXdIB4nAH0bD4rlSk9CbpF_hcdgRDzkxA",
+      "domain": "facebook.com",
+      "path": "/",
+      "hostOnly": false,
+      "creation": "2023-04-05T09:01:28.187Z",
+      "lastAccessed": "2023-04-05T09:01:28.187Z"
+  },
+  {
+      "key": "fr",
+      "value": "0bvhODR2nSVo6a3N2.AWVnRe5wfOEAY3aNr0uCTZSw6U4.BkLTjA.kF.AAA.0.0.BkLTjA.AWU7jV7E3SQ",
+      "domain": "facebook.com",
+      "path": "/",
+      "hostOnly": false,
+      "creation": "2023-04-05T09:01:28.187Z",
+      "lastAccessed": "2023-04-05T09:01:28.187Z"
+  }
+]
